@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Programming theory.sln"
+    "dotnet.defaultSolution": "Submission-Programming-theory.sln"
 }
